@@ -13,3 +13,9 @@ yarn install
 ```
 yarn start
 ```
+
+## Build your app for production
+```
+yarn build
+```
+It will create a `dist` folder.
